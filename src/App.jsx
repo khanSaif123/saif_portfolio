@@ -28,7 +28,7 @@ const siteProps = {
   title: "MERN Stack Developer",
   email: "khansaiflko0@gmail.com",
   gitHub: "khanSaif123",
-  instagram: "microsoft",
+  instagram: "mohdkhan3124",
   linkedIn: "saif-khan01",
   medium: "",
   twitter: "KhanSaif8573",
